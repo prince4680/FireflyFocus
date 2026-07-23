@@ -34,3 +34,4 @@ Phaser 3.80.1
 TypeScript
 Vite
 HTML5
+Deployment Trigger
